@@ -1,2 +1,2 @@
 # Dify core services
-langgenius/dify-worker:latest
+postgres:15
