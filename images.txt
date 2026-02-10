@@ -1,2 +1,2 @@
 # Dify core services
-langgenius/dify-web:latest
+langgenius/dify-worker:latest
