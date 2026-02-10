@@ -1,2 +1,2 @@
 # Dify core services
-postgres:15
+redis7:alpine
