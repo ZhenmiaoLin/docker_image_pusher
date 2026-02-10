@@ -3,7 +3,7 @@
 # ========================
 
 
---platform=linux/amd64 langgenius/dify-api:latest
---platform=linux/amd64 langgenius/dify-web:latest
---platform=linux/amd64 langgenius/dify-worker:latest
+langgenius/dify-api:latest
+langgenius/dify-web:latest
+langgenius/dify-worker:latest
 
