@@ -1,2 +1,2 @@
 # Dify core services
-redis7:alpine
+library/redis:7-alpine
