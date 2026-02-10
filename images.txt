@@ -2,6 +2,7 @@
 # Dify official images
 # ========================
 
+
 --platform=linux/amd64 langgenius/dify-api:latest
 --platform=linux/amd64 langgenius/dify-web:latest
 --platform=linux/amd64 langgenius/dify-worker:latest
