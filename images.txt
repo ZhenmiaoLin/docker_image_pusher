@@ -1,2 +1,1 @@
-# Dify core services
-library/redis:7-alpine
+langgenius/dify-worker:latest
