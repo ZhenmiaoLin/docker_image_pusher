@@ -1,9 +1,2 @@
-# ========================
-# Dify official images
-# ========================
-
-
-langgenius/dify-api:latest
-langgenius/dify-web:latest
-langgenius/dify-worker:latest
+redis:7-alpine
 
