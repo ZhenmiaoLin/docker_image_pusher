@@ -1,4 +1,4 @@
-docker.1ms.run/redis:7-alpine
+redis:7-alpine
 
 
 
