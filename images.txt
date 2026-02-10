@@ -1,4 +1,2 @@
-redis:7-alpine
-
-
-
+# Dify core services
+langgenius/dify-api:latest
